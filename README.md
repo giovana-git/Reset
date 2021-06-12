@@ -16,7 +16,6 @@ Comandos para dar reset no Switch e Router
 
 **RESETAR O ROUTER**
 ```
-
 1) Abrir o Putty e conectar no Roteador com o equipamento DESLIGADO
 2) Ligar o Roteador e pressionar diversas vezes o atalho "Ctrl+Pause Break", até aparecer o texto "rommon 1>"
 3)Digitar os seguinte comandos NESSA SEQUÊNCIA:
@@ -40,4 +39,4 @@ Comandos para dar reset no Switch e Router
 	  (config)#exit
 		#reload
     Responder "YES" para as perguntas!
-    ```
+```
